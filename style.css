@@ -284,7 +284,6 @@ nav {
   .card-section {
     grid-template-columns: 1fr 1fr;
   }
-
   nav {
     padding: 20px 30px;
   }
