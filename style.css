@@ -278,6 +278,7 @@ nav {
 @media screen and (max-width: 992px) {
   .layout {
     grid-template-columns: 1fr;
+
     gap: 30px;
   }
 
